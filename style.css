@@ -1,0 +1,60 @@
+:root {
+  --secondaryyellow: #4CAF4F;
+
+}
+
+
+.mybtn1{
+  color: var(--secondaryyellow) !important;
+}
+
+.mybtn2{
+  border: 1px solid var(--secondaryyellow) !important;
+  background-color: var(--secondaryyellow) !important;
+  color: white;
+}
+
+
+
+/* hero section */
+.myBtn{
+  width: fit-content;
+  color: white;
+  background-color: var(--secondaryyellow);
+  padding: 10px 20px;
+
+}
+
+
+.heroSection{
+  padding-top: 50px;
+}
+
+.myspan{
+  color: var(--secondaryyellow);
+}
+
+.section1{
+  margin-top: 50px  !important;
+}
+
+
+.mypages{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* cards */
+.mycard{
+  height: 300px !important;
+}
+.myBtn1{
+  color: var(--secondaryyellow);
+}
+
+
+.myheight{
+  height: 400px;
+}
